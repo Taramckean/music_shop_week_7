@@ -1,12 +1,8 @@
 public class Accessory extends StockItem{
-    private String type;
 
     public Accessory(String type, int priceBoughtFor, int priceSoldFor){
-        super(priceBoughtFor, priceSoldFor);
-        this.type = type;
+        super(type, priceBoughtFor, priceSoldFor);
     }
 
-    public String getType() {
-        return this.type;
-    }
+
 }

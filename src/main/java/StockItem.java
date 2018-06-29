@@ -1,10 +1,13 @@
 public abstract class StockItem {
     private int priceBoughtFor;
     private int priceSoldFor;
+    private String type;
 
-    public StockItem(int priceBoughtFor, int priceSoldFor){
+    public StockItem(String type, int priceBoughtFor, int priceSoldFor){
+        this.type = type;
         this.priceBoughtFor = priceBoughtFor;
         this.priceSoldFor = priceSoldFor;
+
     }
 
     public int getPriceBoughtFor() {
@@ -13,5 +16,9 @@ public abstract class StockItem {
 
     public int getPriceSoldFor() {
         return priceSoldFor;
+    }
+
+    public String getType() {
+        return this.type;
     }
 }
