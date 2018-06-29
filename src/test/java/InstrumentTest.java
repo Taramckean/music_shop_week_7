@@ -8,12 +8,9 @@ public class InstrumentTest {
 
     @Before
     public void before(){
-        instrument = new Instrument("Flugelhorn", "Wind", 300, 800, "Brass", "Gold");
+        instrument = new Instrument( "Wind", 300,
+                800, "Brass", "Gold","TOOOOOT");
     }
-
-    @Test
-    public void canGetName(){
-    assertEquals("Flugelhorn", instrument.getName());}
 
     @Test
     public void canGetPriceBoughtFor(){
@@ -38,6 +35,13 @@ public class InstrumentTest {
         assertEquals("Wind", instrument.getType());
 
     }
+
+    @Test
+    public void canPlay(){
+        assertEquals("TOOOOOT", instrument.play());
+    }
+
+
 
 
 }
