@@ -17,11 +17,18 @@ public class Shop {
         return this.stock.size();
     }
 
-    public void addInstrument(Isell item) {
+    public void addItem(Isell item) {
         this.stock.add(item);
     }
 
-    public void removeInstrument(Isell item) {
+    public void removeItem(Isell item) {
         this.stock.remove(item);
+    }
+
+    public int calculateTotalMarkup() {
+        int totalMarkup =0;
+        for (Isell item : stock)
+        {totalMarkup += item.calculateMarkup() ;}
+        return totalMarkup;
     }
 }
