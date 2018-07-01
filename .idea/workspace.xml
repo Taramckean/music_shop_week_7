@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6de45e41-64c0-48ca-94f3-1874681d1e12" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Flugelhorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Flugelhorn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FlugelhornTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FlugelhornTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6de45e41-64c0-48ca-94f3-1874681d1e12" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,45 +13,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="InstrumentTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/InstrumentTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" selection-start-line="14" selection-end-line="41" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#735#736#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#983#984#0" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Flugelhorn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Flugelhorn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="73" />
-              <folding>
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FlugelhornTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FlugelhornTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="135">
               <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HurdyGurdyTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HurdyGurdyTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HurdyGurdyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="90">
+              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="40" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#337#338#0" expanded="true" />
@@ -97,11 +59,64 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CheeseDrumTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CheeseDrumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Flugelhorn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Flugelhorn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="75" />
+              <folding>
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cheesedrum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Cheesedrum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+              <folding>
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HurdyGurdy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HurdyGurdy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+            <state relative-caret-position="240">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,8 +133,8 @@
       <file leaf-file-name="Instrument.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Instrument.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="238">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="e#492#493#0" expanded="true" />
                 <element signature="e#513#514#0" expanded="true" />
@@ -127,19 +142,6 @@
                 <element signature="e#587#588#0" expanded="true" />
                 <element signature="e#703#704#0" expanded="true" />
                 <element signature="e#722#723#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Accessory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Accessory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,10 +178,12 @@
     <findStrings>
       <find>instrument</find>
       <find>flugelhorn</find>
+      <find>hurdyGurdy</find>
     </findStrings>
     <replaceStrings>
       <replace>flugelhorn</replace>
       <replace>hurdyGurdy</replace>
+      <replace>cheesedrum</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -198,8 +202,11 @@
         <option value="$PROJECT_DIR$/src/test/java/InstrumentTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Flugelhorn.java" />
         <option value="$PROJECT_DIR$/src/test/java/FlugelhornTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/HurdyGurdyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/HurdyGurdy.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HurdyGurdyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Cheesedrum/Cheesedrum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Cheesedrum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CheeseDrumTest.java" />
       </list>
     </option>
   </component>
@@ -264,6 +271,7 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+      <recent name="Cheesedrum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,16 +286,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HurdyGurdyTest.cantChangeKeyAbove5">
+  <component name="RunManager" selected="JUnit.CheeseDrumTest.canMeltCheesedrums">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FlugelhornTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheeseDrumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MusicShop" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FlugelhornTest" />
+      <option name="MAIN_CLASS_NAME" value="CheeseDrumTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -299,13 +307,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FlugelhornTest.canMakeDifferentSound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheeseDrumTest.canGetSolidity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MusicShop" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FlugelhornTest" />
-      <option name="METHOD_NAME" value="canMakeDifferentSound" />
+      <option name="MAIN_CLASS_NAME" value="CheeseDrumTest" />
+      <option name="METHOD_NAME" value="canGetSolidity" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CheeseDrumTest.canMeltCheesedrums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheeseDrumTest" />
+      <option name="METHOD_NAME" value="canMeltCheesedrums" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -340,23 +365,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="HurdyGurdyTest" />
       <option name="METHOD_NAME" value="cantChangeKeyAbove5" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="InstrumentTest.canPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MusicShop" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="InstrumentTest" />
-      <option name="METHOD_NAME" value="canPlay" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -406,19 +414,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.InstrumentTest.canPlay" />
-      <item itemvalue="JUnit.FlugelhornTest" />
-      <item itemvalue="JUnit.FlugelhornTest.canMakeDifferentSound" />
       <item itemvalue="JUnit.HurdyGurdyTest" />
       <item itemvalue="JUnit.HurdyGurdyTest.cantChangeKeyAbove5" />
+      <item itemvalue="JUnit.CheeseDrumTest" />
+      <item itemvalue="JUnit.CheeseDrumTest.canGetSolidity" />
+      <item itemvalue="JUnit.CheeseDrumTest.canMeltCheesedrums" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CheeseDrumTest.canMeltCheesedrums" />
+        <item itemvalue="JUnit.CheeseDrumTest.canGetSolidity" />
+        <item itemvalue="JUnit.CheeseDrumTest" />
         <item itemvalue="JUnit.HurdyGurdyTest.cantChangeKeyAbove5" />
         <item itemvalue="JUnit.HurdyGurdyTest" />
-        <item itemvalue="JUnit.FlugelhornTest.canMakeDifferentSound" />
-        <item itemvalue="JUnit.FlugelhornTest" />
-        <item itemvalue="JUnit.InstrumentTest.canPlay" />
       </list>
     </recent_temporary>
   </component>
@@ -436,18 +444,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AccessoryTest_canGetType - 2018.06.29 at 11h 49m 59s.xml">
-      <configuration name="AccessoryTest.canGetType" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccessoryTest_canGetType - 2018.06.29 at 11h 51m 01s.xml">
-      <configuration name="AccessoryTest.canGetType" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccessoryTest_canGetType - 2018.06.29 at 11h 51m 44s.xml">
-      <configuration name="AccessoryTest.canGetType" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccessoryTest_canGetType - 2018.06.29 at 11h 53m 45s.xml">
-      <configuration name="AccessoryTest.canGetType" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AccessoryTest - 2018.06.29 at 11h 55m 07s.xml">
       <configuration name="AccessoryTest" configurationId="JUnit" />
     </history-entry>
@@ -466,6 +462,18 @@
     <history-entry file="FlugelhornTest_canMakeDifferentSound - 2018.07.01 at 20h 01m 51s.xml">
       <configuration name="FlugelhornTest.canMakeDifferentSound" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HurdyGurdyTest - 2018.07.01 at 20h 31m 23s.xml">
+      <configuration name="HurdyGurdyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HurdyGurdyTest_cantChangeKeyAbove5 - 2018.07.01 at 20h 31m 55s.xml">
+      <configuration name="HurdyGurdyTest.cantChangeKeyAbove5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheeseDrumTest - 2018.07.01 at 20h 38m 48s.xml">
+      <configuration name="CheeseDrumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheeseDrumTest_canGetSolidity - 2018.07.01 at 20h 40m 04s.xml">
+      <configuration name="CheeseDrumTest.canGetSolidity" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="56" width="1280" height="723" extended-state="0" />
@@ -479,12 +487,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32973805" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32973805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -504,7 +512,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -583,25 +591,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Instrument.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HurdyGurdyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="90">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="40" selection-end-column="1" />
           <folding>
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Cheesedrum/Cheesedrum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/InstrumentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" selection-start-line="14" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#391#392#0" expanded="true" />
@@ -618,20 +638,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Flugelhorn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="73" />
-          <folding>
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FlugelhornTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="135">
           <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -651,29 +660,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HurdyGurdy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Instrument.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+        <state relative-caret-position="238">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HurdyGurdyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Flugelhorn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="75" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HurdyGurdy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Cheesedrum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CheeseDrumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
           </folding>
         </state>
       </provider>
