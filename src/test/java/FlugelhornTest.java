@@ -37,6 +37,11 @@ public class FlugelhornTest {
     }
 
     @Test
+    public void canCalculateMarkup(){
+        assertEquals(500, flugelhorn.calculateMarkup());
+    }
+
+    @Test
     public void canPlay(){
         assertEquals("TOOOOOT", flugelhorn.play());
     }

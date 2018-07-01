@@ -41,6 +41,11 @@ public class HurdyGurdyTest {
 }
 
     @Test
+    public void canCalculateMarkup(){
+        assertEquals(100, hurdyGurdy.calculateMarkup());
+    }
+
+    @Test
     public void canChangeKey(){
         hurdyGurdy.changeKey();
         assertEquals(2,hurdyGurdy.checkKey());

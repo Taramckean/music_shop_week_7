@@ -1,4 +1,4 @@
-public abstract class StockItem {
+public abstract class StockItem implements Isell {
     private int priceBoughtFor;
     private int priceSoldFor;
     private String type;
@@ -21,4 +21,9 @@ public abstract class StockItem {
     public String getType() {
         return this.type;
     }
+
+    public int calculateMarkup(){
+        return this.priceSoldFor -= this.priceBoughtFor;
+    }
+
 }

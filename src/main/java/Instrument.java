@@ -22,4 +22,5 @@ public class Instrument extends StockItem implements Iplay{
     public String play(){
         return this.sound;
     }
+
 }

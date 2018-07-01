@@ -44,6 +44,11 @@ public class CheeseDrumTest {
     }
 
     @Test
+    public void canCalculateMarkup(){
+        assertEquals(350, cheesedrum.calculateMarkup());
+    }
+
+    @Test
     public void canGetSolidity(){
         assertEquals(8, cheesedrum.getSolidity());
     }
