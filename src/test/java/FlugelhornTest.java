@@ -9,7 +9,7 @@ public class FlugelhornTest {
     @Before 
     public void before(){
         flugelhorn = new Flugelhorn("Wind", 300,
-                800, "Brass", "Gold","TOOOOOT", 5);
+                800, "Brass", "Gold","TOOOOOT");
     }
 
     @Test
@@ -42,8 +42,8 @@ public class FlugelhornTest {
     }
 
     @Test
-    public void canGetValves(){
-        assertEquals(5, flugelhorn.countValves());
+    public void canMakeDifferentSound(){
+        assertEquals("HOOOOOOOT", flugelhorn.pushValveDown());
     }
 }
 
